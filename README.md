@@ -56,7 +56,7 @@ shoppingsystem/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/shoppingsystem.git
+git clone https://github.com/anvit1618/Shopping-System.git
 cd shoppingsystem
 ```
 

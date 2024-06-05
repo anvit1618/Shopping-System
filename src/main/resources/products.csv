@@ -1,0 +1,12 @@
+category,id,name,price,description,imagePath
+electronics,1,Smartphone,699.99,Latest model smartphone,images/smartphone.jpg
+clothing,2,T-Shirt,19.99,Cotton t-shirt,images/tshirt.jpg
+groceries,3,Apple,1.99,Fresh apple,images/apple.jpg
+houseware,4,Vacuum Cleaner,129.99,High power vacuum cleaner,images/vacuum.jpg
+kitchenware,5,Blender,49.99,Multi-function blender,images/blender.jpg
+furniture,6,Sofa,499.99,Comfortable sofa,images/sofa.jpg
+healthproducts,7,Vitamins,29.99,Daily vitamins,images/vitamins.jpg
+beautyproducts,8,Shampoo,9.99,Nourishing shampoo,images/shampoo.jpg
+tools,9,Drill,89.99,Electric drill,images/drill.jpg
+petcare,10,Dog Food,19.99,Healthy dog food,images/dogfood.jpg
+bathroomthings,11,Toothbrush,4.99,Electric toothbrush,images/toothbrush.jpg
